@@ -10,7 +10,7 @@ un plaid interactif  pour les personnes âgées qui apaise en 5 -10 minutes des 
 * Snoezelen 
 
 
-![Snoezelen](https://i0.wp.com/assocalliope.fr/wp-content/uploads/2018/10/GODDERIDGE-Bernard-showroom-petrarque.jpg?fit=1193%2C796)
+![Snoezelen](Images/snozelen.jpg)
 
 
 
