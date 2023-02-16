@@ -39,6 +39,9 @@ Nous aurions besoin,  initialement, d'un capteur de mouvement qui émets un son 
 
 ![Bouton](Images/bouton.jpg)
 
+## Circuit
+
+![circuit](Images/circuit.jpg)
 
 ## Authors
 
