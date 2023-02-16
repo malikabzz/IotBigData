@@ -24,7 +24,7 @@ Les capteurs de mouvement, de température et d'humidité intégrés à l'espace
 
 
 
-![tapis](https://i0.wp.com/assocalliope.fr/wp-content/uploads/2018/10/GODDERIDGE-Bernard-showroom-petrarque.jpg?fit=1193%2C796)
+![tapis](Images/tapis.jpg)
 
 
 Le tapis de jeu Fisher-Price de la gamme Linkimals est conçu pour stimuler l'apprentissage et le développement de bébé grâce à des activités éducatives interactives. Le tapis est équipé de plusieurs capteurs qui détectent les mouvements de bébé et déclenchent des chansons pour encourager l'exploration et l'apprentissage.
