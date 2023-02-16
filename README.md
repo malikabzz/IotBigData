@@ -15,22 +15,28 @@ Nous aurions besoin,  initialement, d'un capteur de mouvement qui émets un son 
 ## Composants
 
 * Arduino Uno R3
+
 ![arduino](Images/arduino.jpg)
 
 * Anneau 24 NeoPixels
+
 ![anneau](Images/neopixel.jpg)
 
 *  Platine d'essai
+
 ![platine](Images/platine.jpg)
 
 * Ecran LCD 16x2
+
 ![Ecran](Images/LCD.jpg)
 
 * Element piézoélectrique
+
 ![Element](Images/element_piezoelctric.jpg)
 
 
 * Bouton poussoir
+
 ![Bouton](Images/bouton.jpg)
 
 
