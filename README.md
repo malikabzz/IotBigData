@@ -7,6 +7,18 @@ Le tapis serait doté de plusieurs capteurs répartis sur toute sa surface. Ces 
 BabySens aura également une application qui permettra aux parents de le gerer a distance tout en gardant leurs enfant a l'oeil.
 
 
+## De quoi aurions-nous besoin?
+
+Nous aurions besoin,  initialement, d'un capteur de mouvement qui va émets un son dès que le bébé est posé sur le tapis 
+
+
+## Composants
+
+* Arduino Uno R3
+
+* 
+* 
+
 ## Authors
 
 * Malika BOUAZIZ
