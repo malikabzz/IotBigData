@@ -8,7 +8,10 @@ un plaid interactif  pour les personnes âgées qui apaise en 5 -10 minutes des 
 
 
 * Snoezelen 
+
+
 ![Snoezelen](https://i0.wp.com/assocalliope.fr/wp-content/uploads/2018/10/GODDERIDGE-Bernard-showroom-petrarque.jpg?fit=1193%2C796)
+
 
 
 L'espace Snoezelen est une approche thérapeutique basée sur la stimulation sensorielle qui vise à offrir des expériences multisensorielles relaxantes et apaisantes. En utilisant l'IoT, il est possible de contrôler à distance les différents dispositifs présents dans l'espace Snoezelen, tels que les projecteurs de lumière, les haut-parleurs diffusant de la musique ou des sons de la nature, les diffuseurs d'huiles essentielles, les vibromasseurs et autres appareils sensoriels.
