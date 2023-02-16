@@ -30,3 +30,4 @@ Les capteurs de mouvement, de température et d'humidité intégrés à l'espace
 Le tapis de jeu Fisher-Price de la gamme Linkimals est conçu pour stimuler l'apprentissage et le développement de bébé grâce à des activités éducatives interactives. Le tapis est équipé de plusieurs capteurs qui détectent les mouvements de bébé et déclenchent des chansons pour encourager l'exploration et l'apprentissage.
 
 L'application mobile qui se connecte au tapis de jeu propose des activités supplémentaires, telles que des histoires. L'application permet également aux parents de suivre les progrès de leur enfant et de personnaliser l'expérience en fonction de ses préférences et de son niveau de développement.
+
