@@ -9,15 +9,30 @@ BabySens aura également une application qui permettra aux parents de le gerer a
 
 ## De quoi aurions-nous besoin?
 
-Nous aurions besoin,  initialement, d'un capteur de mouvement qui va émets un son dès que le bébé est posé sur le tapis 
+Nous aurions besoin,  initialement, d'un capteur de mouvement qui émets un son dès que le bébé est posé sur le tapis 
 
 
 ## Composants
 
 * Arduino Uno R3
+![arduino](Images/arduino.jpg)
 
-* 
-* 
+* Anneau 24 NeoPixels
+![anneau](Images/neopixel.jpg)
+
+*  Platine d'essai
+![platine](Images/platine.jpg)
+
+* Ecran LCD 16x2
+![Ecran](Images/LCD.jpg)
+
+* Element piézoélectrique
+![Element](Images/element_piezoelctric.jpg)
+
+
+* Bouton poussoir
+![Bouton](Images/bouton.jpg)
+
 
 ## Authors
 
